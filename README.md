@@ -41,7 +41,7 @@ Verify sends its standard message for the channel, translated for the destinatio
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/twilio-samples/entra-verify-integration.git
+git clone https://github.com/robinske/entra-verify-integration.git
 cd entra-verify-integration
 node setup.mjs
 ```
